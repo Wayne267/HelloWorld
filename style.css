@@ -1,6 +1,7 @@
 <style>
 h1 
       {
+         color : red   
         Border_bottom: solid 2px;
         font-family: arial;
       }
@@ -10,6 +11,9 @@ h1
         color:blue;
         text-align : right;
       }
+
+body { 
+      background-color : green; 
+}
 </style>
-<body style = "background-color : green;" >
-<h1 style = "color:red;">Welcome to my first webpage</h1>
+
